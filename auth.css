@@ -1,0 +1,16 @@
+.auth-container {
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+}
+
+.auth-form {
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.auth-input {
+    transition: border-color 0.3s ease;
+}
+
+.auth-input:focus {
+    border-color: #f6d365;
+}

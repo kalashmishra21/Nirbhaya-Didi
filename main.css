@@ -1,0 +1,20 @@
+.sos-button {
+    transition: all 0.3s ease;
+}
+
+.sos-button:hover {
+    transform: scale(1.05);
+}
+
+.emergency-number {
+    transition: all 0.3s ease;
+}
+
+.emergency-number:hover {
+    transform: scale(1.02);
+}
+
+.location-info {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+}
